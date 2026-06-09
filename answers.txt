@@ -4,3 +4,9 @@ Answer: It allows version control along with easy collaboration with others on t
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Electric Vehicle industry
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches together keeping chronological order of commits while rebasing just reapplies all commits on a branch onto another one.
+
