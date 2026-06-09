@@ -1,3 +1,6 @@
 Q1: Why might we consider using Git?
 
 Answer: It allows version control along with easy collaboration with others on the same code
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Electric Vehicle industry
